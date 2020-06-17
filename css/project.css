@@ -1,0 +1,62 @@
+.project_list {
+  height: calc(100vh - 40px);
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.project {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.fa-html5 {
+  color: #f5470b;
+}
+
+.fa-css3-alt {
+  color: #3596d0;
+}
+
+.fa-js {
+  color: #f8c427;
+}
+
+.fa-react {
+  color: #61dafb;
+}
+
+.fa-node-js {
+  color: #8cc84b;
+}
+
+.fa-docker {
+  color: #016fbc;
+}
+
+.fa-java {
+  color: #f43f1c;
+}
+
+.fa-sass {
+  color: #cf649a;
+}
+
+.iconify {
+  height: 14px;
+  width: 14px;
+  margin-bottom: -1px;
+}
+
+.iconify[data-icon="cib:spring"] {
+  color: #6ab23b;
+}
+
+.iconify[data-icon="cib:nginx"] {
+  color: #009733;
+}
